@@ -1,4 +1,4 @@
-# Automatic Feature Matching Across Images
+# Automatic Feature Matching and Panorama Stitching
 
 
 ![Header](web/assets/header.png)
